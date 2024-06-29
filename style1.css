@@ -164,6 +164,9 @@ h1 {
 }
 
 @media (max-width: 480px) {
+  .notes h1 {
+    padding: 150px;
+  }
   .container {
     padding: 150px 0 0;
   }
