@@ -165,7 +165,7 @@ h1 {
 
 @media (max-width: 480px) {
   .container {
-    padding: 100px 0 0;
+    padding: 150px 0 0;
   }
   .grid-container {
     grid-template-columns: repeat(1, 1fr);
